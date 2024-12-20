@@ -23,8 +23,11 @@ This project leverages a MutiModal LLM and prompt engineering to build a chatbot
 Image understanding has always been a difficult task
 
 
-## Tasks 
+## Examples of Completions 
 ** OCR 
 ![images](https://github.com/00VALAK00/MultiModal-Chatbot/blob/master/images/OCR%20task/Screenshot%202024-12-17%20233750.png)
+
+** Information retrieval
+![images](https://github.com/00VALAK00/MultiModal-Chatbot/blob/master/images/Information%20Retrieval/ir%204.png)
 
 
