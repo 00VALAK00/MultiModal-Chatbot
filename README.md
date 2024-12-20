@@ -37,10 +37,10 @@ in practical applications.
  The model is MiniCPMV-2.6, comprising SigLip-400M and Qwen2-7B with a total of 8B parameters. It exhibits a significant performance
  improvement and outperforms GPT-4o mini, GPT-4V, Gemini 1.5 Pro, and Claude 3.5 Sonnet for single image understanding.
  **Perks**:
- 1. Leading Performace achieving 65.2 on openCompass benchmark
- 2. Lightweight 
- 3. Efficiency (Memory ususage)
- 4. Strong OCR capabilities
+ 1. ** Performace achieving 65.2 on openCompass benchmark**
+ 2. **Lightweight**
+ 3. **Efficiency (Memory ususage)**
+ 4. **Strong OCR capabilities**
 
 ## Examples of Completions 
 
