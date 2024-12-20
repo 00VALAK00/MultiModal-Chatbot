@@ -25,11 +25,11 @@ Image understanding has always been a difficult task
 
 ## Examples of Completions 
 
-**OCR**
+**OCR**: Performs OCR and handles complex layouts such as titles, figure names and tables
 
 ![images](https://github.com/00VALAK00/MultiModal-Chatbot/blob/master/images/OCR%20task/Screenshot%202024-12-17%20233750.png)
 
-**Information retrieval**
+**Information retrieval**: Given certain features the MLLM extracts relevant information from the images
 
 ![images](https://github.com/00VALAK00/MultiModal-Chatbot/blob/master/images/Information%20Retrieval/ir%204.png)
 
